@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 28
-  productGUID: 4af9e02266465a145a48e520855810e1
+  productGUID: 3f4ea80e84faad94f84c94b01f8fd7b4
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Touponline
+  productName: ToupOnline
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -838,14 +838,14 @@ PlayerSettings:
   editorAssembliesCompatibilityLevel: 1
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Touponline
+  metroPackageName: ToupOnline
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Touponline
+  metroApplicationDescription: ToupOnline
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -914,12 +914,12 @@ PlayerSettings:
   qnxGraphicConfPath: 
   apiCompatibilityLevel: 6
   captureStartupLogs: {}
-  activeInputHandler: 0
+  activeInputHandler: 1
   windowsGamepadBackendHint: 0
-  cloudProjectId: a1af9dc7-ac1c-4473-b655-1192d274f1fb
+  cloudProjectId: b7388762-ceb5-4116-9252-3562faf05940
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Touponline
+  projectName: ToupOnline
   organizationId: titfournel
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
